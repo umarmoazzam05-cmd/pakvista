@@ -78,7 +78,7 @@ A tourism-focused interface designed with Flutter, featuring custom screens, car
 
 ## AI Trip Planner
 
-![PakVista AI Trip Planner](screenshots/pakvista.ai.jpg)
+![PakVista AI Trip Planner](screenshots/pakvista.AI.jpg)
 
 ## Favourites
 
@@ -147,7 +147,7 @@ pakvista/
 │
 ├── screenshots/
 │   ├── pakvista.about.jpg
-│   ├── pakvista.ai.jpg
+│   ├── pakvista.AI.jpg
 │   ├── pakvista.contact.jpg
 │   ├── pakvista.explore.jpg
 │   ├── pakvista.favourites.jpg
